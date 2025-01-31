@@ -116,3 +116,5 @@ if __name__ == "__main__":
     test_output_dir = r"path_to_your_output_directory"
     result = process_images_labview(test_image_path, test_output_dir)
     print(result)
+# this script used for all image normalization for labview python_node 
+#you can able to call each singular function from the script
